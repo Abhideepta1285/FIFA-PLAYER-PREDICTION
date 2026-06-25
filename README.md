@@ -138,6 +138,7 @@ FIFA-Player-Performance-Classification/
 ├── scaler.pkl
 ├── features.pkl
 ├── feature_means.pkl
+├── requirements.txt
 ├── README.md
 └── .gitignore
 ```
